@@ -1,1 +1,22 @@
 print("Hola Mundo");
+
+
+print("Esta es la versión 2 modificada");
+
+
+
+Rigidbody2D rb;
+
+
+rb= GetComponent<Rigidbody>();
+
+fsd
+gfs
+sd
+f
+dsf
+sd
+f
+dsg
+ds
+g
